@@ -18,3 +18,16 @@ footer {
 	color: #f5f5f5;
 	text-align: center;
 }
+.navbar.navbar-default {
+	border-width: 0px;
+	border-radius: 0px;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+.image-fill {
+	width: 100%;
+}
+#wrapper {
+	padding-left: 0px;
+	padding-right: 0px;
+}
